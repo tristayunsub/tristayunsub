@@ -6,8 +6,8 @@
 
 
 
-# | Education | University                    | Period           | Major                  |   |
-# |-----------|-------------------------------|------------------|------------------------|---|
-# |           | Korea Polytechnic University  | 2015.02.~Present | Mechanical Engineering |   |
-# | Career    |                               |                  |                        |   |
-# |           |                               |                  |                        |   |
+| Education | University                    | Period           | Major                  |   |
+|-----------|-------------------------------|------------------|------------------------|---|
+| Name      | Korea Polytechnic University  | 2015.02.~Present | Mechanical Engineering |   |
+|           |                               |                  |                        |   |
+|           |                               |                  |                        |   |
