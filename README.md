@@ -1,6 +1,8 @@
 
 ### Welcome to My channel
 
+Skills:MongoDB, mysql, react, javascript, node.js,graphql
+
 
 
 
