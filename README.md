@@ -1,7 +1,7 @@
 
 ### Have Fun Sleeping
 
-Skills:MongoDB, mysql, react, javascript, node.js,apollo,graphq
+Skills:MongoDB, React, Express, Node.js, Graphql
 
 
 
