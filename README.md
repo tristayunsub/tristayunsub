@@ -4,8 +4,6 @@
 Skills:MongoDB, React, Express, Node.js, MYSQL, AWS
 
 
-Certificate:SQL Developer(SQLD)
-
 
 
 
