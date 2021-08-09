@@ -5,7 +5,7 @@ Skills:MongoDB, React, Express, Node.js, MYSQL, AWS
 
 
 
-
+---
 
 
 | Education | University                    | Period           | Major                  |   |
@@ -13,3 +13,6 @@ Skills:MongoDB, React, Express, Node.js, MYSQL, AWS
 | Name      | Korea Polytechnic University  | 2015.02.~Present | Mechanical Engineering |   |
 |           |                               |                  |                        |   |
 |           |                               |                  |                        |   |
+
+
+---
