@@ -17,3 +17,6 @@ https://blog.naver.com/psy7361c
 https://killer.sh/
 쿠버네티스 자격증공부 웹
 https://blog.naver.com/innogrid/222376645936
+
+
+https://www.cockroachlabs.com/docs/cockroachcloud/quickstart.html
